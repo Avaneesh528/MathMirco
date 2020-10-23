@@ -1,2 +1,3 @@
 # MathMirco
-A mom package
+A npm math package! :D
+
